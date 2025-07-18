@@ -1,0 +1,1 @@
+-- Placeholder for indexed_views_performance.sql

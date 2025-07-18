@@ -1,0 +1,1 @@
+-- Placeholder for star_schema_example.sql

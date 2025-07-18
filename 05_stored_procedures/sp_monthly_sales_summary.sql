@@ -1,0 +1,1 @@
+-- Placeholder for sp_monthly_sales_summary.sql

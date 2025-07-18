@@ -1,0 +1,1 @@
+-- Placeholder for joins_and_ctes.sql

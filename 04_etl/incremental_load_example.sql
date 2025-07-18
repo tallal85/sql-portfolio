@@ -1,0 +1,1 @@
+-- Placeholder for incremental_load_example.sql
