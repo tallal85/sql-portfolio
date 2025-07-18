@@ -1,1 +1,2 @@
--- Placeholder for create_schema.sql
+-- Create SalesDW schema
+CREATE SCHEMA SalesDW;
